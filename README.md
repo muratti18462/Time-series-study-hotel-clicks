@@ -5,12 +5,6 @@
 This project aims to forecast the number of hotel booking clicks over time, assisting hotel managers in resource allocation and marketing strategy planning.  
 By analyzing historical click data, we employ time series forecasting methods to predict future trends.
 
----
-
-## Table of Contents
-- [Key Features](#key-features)
-- [How It Works](#how-it-works)
-- [Technologies Used](#technologies-used)
 
 ---
 
